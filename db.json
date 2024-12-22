@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user1@gmail.com",
+      "password": "Password123",
+      "createdAt": 1700313547023
+    },
+    {
+      "id": "4f6c",
+      "email": "user2@gmail.com",
+      "password": "123Password",
+      "createdAt": 1732323971003
+    }
+  ],
+  "notes": [
+    {
+      "id": "97de",
+      "title": "ddd",
+      "body": "",
+      "authorId": "1",
+      "createdAt": 1733521656075
+    }
+  ]
+}
